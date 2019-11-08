@@ -1,1 +1,3 @@
 采用git连接github，这是第一次尝试...
+我已经将远程库的文件克隆下来了，下面是要修改的部分：
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
